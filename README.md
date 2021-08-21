@@ -1,7 +1,7 @@
 ### Hi there 👋 It's me Hareesh
 
 [![HitCount](http://hits.dwyl.com/hareesh-r/hareesh-r.svg)](http://hits.dwyl.com/hareesh-r/hareesh-r)
-<iframe src="https://assets.pinterest.com/ext/embed.html?id=379146862379212303" align="right" height="290" width="370" frameborder="0" scrolling="no" ></iframe>
+<img src="https://assets.pinterest.com/ext/embed.html?id=379146862379212303" align="right" height="290" width="370">
 - 🔭 I’m currently working on Web Development with MERN Stack ...                                               
 - 🌱 I’m currently learning ML/DL/AI...
 - 🤔 I’m looking for help with React & Node JS..
